@@ -1,0 +1,6 @@
+@Cross_platform_development_technologies_HostAddress = http://localhost:5053
+
+GET {{Cross_platform_development_technologies_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
